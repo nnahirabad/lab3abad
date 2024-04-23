@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/clase01/clase01.iml" filepath="$PROJECT_DIR$/clase01/clase01.iml" />
       <module fileurl="file://$PROJECT_DIR$/e01_114232/e01_114232.iml" filepath="$PROJECT_DIR$/e01_114232/e01_114232.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e02_114232/e02_114232.iml" filepath="$PROJECT_DIR$/e02_114232/e02_114232.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e03_114232/e03_114232.iml" filepath="$PROJECT_DIR$/e03_114232/e03_114232.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e04_114232/e04_114232.iml" filepath="$PROJECT_DIR$/e04_114232/e04_114232.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lab3abad.iml" filepath="$PROJECT_DIR$/.idea/lab3abad.iml" />
     </modules>
   </component>
